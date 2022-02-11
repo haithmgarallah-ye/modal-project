@@ -8,7 +8,7 @@ export default {
   name: 'App',
  data() {
    return {
-     title:"my name is haithm garallah"
+     title:"my name is main branch"
    }
  }
 }
